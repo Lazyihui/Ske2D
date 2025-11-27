@@ -10,16 +10,22 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
-  m_Name: Packed Assets
+  m_Name: Role
   m_EditorClassIdentifier: 
-  m_GroupName: Packed Assets
+  m_GroupName: Role
   m_Data:
     m_SerializedData: []
-  m_GUID: 1e88b339ece0da6489ec41f3d5de2ee1
-  m_SerializeEntries: []
+  m_GUID: c42ae23238cd76c4396752a8e062e448
+  m_SerializeEntries:
+  - m_GUID: 8f4e6996f9b0469478e241c97e3a8f77
+    m_Address: RoleEntity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Entity
+    FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 5321897ccdf4bbb4aa081a4bb35f9d5b, type: 2}
   m_SchemaSet:
     m_Schemas:
-    - {fileID: 11400000, guid: ec13534f5740ee14d8e1a26bac2918b0, type: 2}
-    - {fileID: 11400000, guid: f0876f1e9811d8040a3b9f6127a3f784, type: 2}
+    - {fileID: 11400000, guid: be657f4390739284b96beeff8aafd06b, type: 2}
+    - {fileID: 11400000, guid: f52456f6c56f32c4e975d72cef530480, type: 2}

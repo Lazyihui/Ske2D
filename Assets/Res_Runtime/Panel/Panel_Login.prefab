@@ -90,7 +90,6 @@ GameObject:
   - component: {fileID: 8660630966502201305}
   - component: {fileID: 2571651544829902479}
   - component: {fileID: 2352808213482828895}
-  - component: {fileID: 3461781008798344458}
   m_Layer: 5
   m_Name: Panel_Login
   m_TagString: Untagged
@@ -183,29 +182,6 @@ CanvasGroup:
   m_Interactable: 1
   m_BlocksRaycasts: 1
   m_IgnoreParentGroups: 0
---- !u!114 &3461781008798344458
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4179444338359709572}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 692bf5582f78e3c41b60fd9a21ec9799, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  uniqueID:
-    value: 0
-    entityType: 0
-    entityID: 0
-  typeID:
-    typeMajor: 0
-    typeMinor: 0
-    typePatch: 0
-  allyStatus: 0
-  rb: {fileID: 0}
-  animator: {fileID: 0}
 --- !u!1 &7237575178625815749
 GameObject:
   m_ObjectHideFlags: 0
